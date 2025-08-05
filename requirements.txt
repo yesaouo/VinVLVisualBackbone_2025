@@ -1,0 +1,34 @@
+# Core dependencies
+numpy==1.19.5
+cython==0.29.36
+scipy
+
+# Build tools
+ninja
+
+# Configuration and utilities
+yacs==0.1.8
+tqdm
+requests
+clint
+
+# Data processing
+pandas
+h5py
+joblib
+
+# Computer vision and ML
+opencv-python
+timm==0.4.12
+einops
+
+# Dataset and annotation tools
+pycocotools
+cityscapesscripts
+
+# NLP
+nltk
+
+# Development and interactive tools
+ipython
+jupyter
