@@ -8,7 +8,7 @@ build/
 dist/
 
 # pytorch/python/numpy formats
-*.pth
+# *.pth
 *.pkl
 *.npy
 
@@ -33,7 +33,7 @@ dist/
 
 # project dirs
 /datasets
-/models
+# /models
 /output
 /exps
 .ptconfig
